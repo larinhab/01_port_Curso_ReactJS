@@ -1,0 +1,16 @@
+{
+  "name": "cursoreact",
+  "version": "1.0.0",
+  "description": "cursop",
+  "main": "main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC"
+}
